@@ -1,0 +1,19 @@
+{
+  "name": "gunconstructor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jauntyjocularjay/gunconstructor.git"
+  },
+  "author": "jauntyjocularjay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jauntyjocularjay/gunconstructor/issues"
+  },
+  "homepage": "https://github.com/jauntyjocularjay/gunconstructor#readme"
+}
