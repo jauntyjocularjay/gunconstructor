@@ -4,3 +4,6 @@
 [submodule "phaserhelpers"]
 	path = phaserhelpers
 	url = https://github.com/jauntyjocularjay/PhaserHelpers.git
+[submodule "vjsc"]
+	path = vjsc
+	url = https://github.com/jauntyjocularjay/vanillajscomponents.git
