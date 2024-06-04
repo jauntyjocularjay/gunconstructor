@@ -88,11 +88,14 @@ import {
 let scene = this
 
 let config = new Config(new View(800, 600), PHYSICS, scene)
+config.preload = preload
+config.create = create
+config.update = update
 let game = new Phaser.Game(config)
 
 function preload ()
 {
-    
+
 }
 
 function create ()
