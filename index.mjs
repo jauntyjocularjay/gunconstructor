@@ -88,6 +88,7 @@ import {
 let scene = this
 
 let config = new Config(new View(800, 600), PHYSICS, scene)
+let game = new Phaser.Game(config)
 
 function preload ()
 {
