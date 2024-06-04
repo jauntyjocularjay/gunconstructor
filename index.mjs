@@ -14,6 +14,7 @@ import {
     Img,
     SpriteSheet,
 } from './phaserhelpers/index.mjs'
+import {} from './vjsc.vanilla.mjs'
 
 let scene = this
 
