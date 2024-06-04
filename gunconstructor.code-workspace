@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "phaserhelpers"
+		},
+		{
+			"path": "vjsc"
+		},
+		{
+			"path": "sh"
+		}
+	],
+	"settings": {}
+}
