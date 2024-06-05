@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"..\/..\/..\/..\/..\/..\/Game_Assets\/itch\/UI\/wenrexa\/holoui\/1. Free Hologram Interface Wenrexa\/Button 1\/Button1.png",
+ "imageheight":64,
+ "imagewidth":512,
+ "margin":0,
+ "name":"Button1",
+ "spacing":0,
+ "tilecount":128,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

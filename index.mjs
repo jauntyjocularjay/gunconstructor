@@ -10,7 +10,7 @@ import {
     Typeface,
     Frame,
     SquareFrame,
-    Img,
+    Img as PhaserImg,
     SpriteSheet,
 } from './phaserhelpers/index.mjs'
 import {
@@ -83,24 +83,31 @@ import {
     JSONCSS,
     UnsupportedJSONCSSError,
     PercentageOutOfRangeError
-} from './vjsc.vanilla.mjs'
+} from './vjsc/vanilla.mjs'
 
-let scene = this
+const GUN_PARTS_PATH = 'assets/gun_parts/'
+const GUN_PARTS = 'GUN_PARTS'
 
-let config = new Config(new View(800, 600), PHYSICS, scene)
-config.preload = preload
-config.create = create
-config.update = update
+let config = new Config(new View(800, 600), PHYSICS)
+config.scene = {
+    preload: preload,
+    create: create,
+    update: update,
+}
 let game = new Phaser.Game(config)
 
 function preload ()
 {
-
+    this.load.image(GUN_PARTS, GUN_PARTS_PATH + 'gun_parts.png')
+    this.load.tilemapTiledJSON('tilemap', GUN_PARTS_PATH + 'gunmap.map.json')
 }
 
 function create ()
 {
-    
+    const map = this.make.tilemap({key: 'tilemap'})
+    const tileset = map.addTilesetImage('gun_parts', GUN_PARTS)
+    // map.createStaticLayer('Background', tileset)
+    // map.createStaticLayer('Ground', tileset)
 }
 
 function update ()
