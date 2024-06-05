@@ -1,48 +1,14 @@
-{ "columns":0,
- "grid":
-    {
-     "height":1,
-     "orientation":"orthogonal",
-     "width":1
-    },
+{ "columns":64,
+ "image":"cardx1.png",
+ "imageheight":1024,
+ "imagewidth":1024,
  "margin":0,
- "name":"windowx1",
+ "name":"cardx1",
  "spacing":0,
- "tilecount":5,
+ "tilecount":4096,
  "tiledversion":"1.10.2",
- "tileheight":847,
- "tiles":[
-        {
-         "id":0,
-         "image":"Card X1.png",
-         "imageheight":847,
-         "imagewidth":405
-        }, 
-        {
-         "id":1,
-         "image":"Card X2.png",
-         "imageheight":847,
-         "imagewidth":396
-        }, 
-        {
-         "id":2,
-         "image":"Panel Empty Green.png",
-         "imageheight":65,
-         "imagewidth":113
-        }, 
-        {
-         "id":3,
-         "image":"Panel Empty.png",
-         "imageheight":65,
-         "imagewidth":113
-        }, 
-        {
-         "id":4,
-         "image":"Panel Red.png",
-         "imageheight":65,
-         "imagewidth":113
-        }],
- "tilewidth":405,
+ "tileheight":16,
+ "tilewidth":16,
  "type":"tileset",
  "version":"1.10"
 }
