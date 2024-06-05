@@ -1,0 +1,14 @@
+{ "columns":24,
+ "image":"panel.png",
+ "imageheight":64,
+ "imagewidth":384,
+ "margin":0,
+ "name":"panel",
+ "spacing":0,
+ "tilecount":96,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

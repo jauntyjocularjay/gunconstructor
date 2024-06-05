@@ -1,0 +1,252 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "holo_ui",
+        "holo_ui/Button 1",
+        ".",
+        "holo_ui/Card X2",
+        "holo_ui/Icons",
+        "gun_parts",
+        "holo_ui/Card X1",
+        "holo_ui/Card X3"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Card X1/panel.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Icons/x32/iconsx32.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Icons/x32/iconsx32black.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Icons/x32/iconsx32gray.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Icons/x32/iconsx32white.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gun_constructor.map.json": {
+            "expandedGroupLayers": [
+                9,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 673.9999999999999,
+                "y": 105.33333333333331
+            }
+        },
+        "gun_constructor.map.json#Button1": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#cardx1": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#cardx2": {
+            "scaleInDock": 0.33
+        },
+        "gun_constructor.map.json#gun_parts": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#iconsx32": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#iconsx32black": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#iconsx32gray": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#iconsx32white": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.json#panel": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj": {
+            "expandedGroupLayers": [
+                9,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 308.33333333333337,
+                "y": 49.33333333333334
+            }
+        },
+        "gun_constructor.map.tmj#Button Active": {
+            "scaleInDock": 0.33
+        },
+        "gun_constructor.map.tmj#Button1": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#cardx1": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#cardx2": {
+            "scaleInDock": 0.33
+        },
+        "gun_constructor.map.tmj#cardx3": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33
+        },
+        "gun_constructor.map.tmj#gun_parts": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#icons": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#iconsx32": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#iconsx32black": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#iconsx32gray": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#iconsx32white": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#panel": {
+            "scaleInDock": 1
+        },
+        "gun_constructor.map.tmj#windowx1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33
+        },
+        "gun_parts/gun_parts.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Button 1/Button Active.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "holo_ui/Button 1/Button.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "holo_ui/Button 1/Button1.tileset.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Button 1/Button1.tileset.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Button 1/ButtonActive.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Button 1/button1a.tileset.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "holo_ui/Card X1/cardx1.tileset.json": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Card X1/cardx1.tileset.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Card X1/panel.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Card X2/cardx2.tileset.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Card X3/cardx3.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/icons.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32black.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32black.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32gray.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32gray.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32white.tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "holo_ui/Icons/iconsx32white.tileset.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/George/OneDrive/Workspace/Programming/Game_Assets/itch/UI/wenrexa/holoui/1. Free Hologram Interface Wenrexa/Icons/x32",
+    "last.imagePath": "C:/Users/George/OneDrive/Workspace/Programming/JSTS/phaser/gunconstructor/assets/holo_ui/Icons",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
+    "map.lastUsedFormat": "json",
+    "mapScene.enableWorlds": true,
+    "openFiles": [
+    ],
+    "project": "gun_constructor.tiled-project",
+    "recentFiles": [
+        "gun_constructor.map.json",
+        "gun_constructor.map.tmj",
+        "holo_ui/Icons/iconsx32white.tileset.tsj",
+        "holo_ui/Icons/iconsx32gray.tileset.tsj",
+        "holo_ui/Icons/iconsx32black.tileset.tsj",
+        "holo_ui/Icons/iconsx32.tileset.tsj",
+        "holo_ui/Card X3/cardx3.tileset.tsj",
+        "holo_ui/Card X2/cardx2.tileset.tsj",
+        "holo_ui/Card X1/panel.tileset.tsj",
+        "holo_ui/Card X1/cardx1.tileset.tsj",
+        "holo_ui/Card X1/cardx1.tileset.json",
+        "holo_ui/Button 1/Button1.tileset.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": false
+}

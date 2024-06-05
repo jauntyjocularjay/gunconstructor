@@ -1,0 +1,14 @@
+{ "columns":96,
+ "image":"cardx3.png",
+ "imageheight":384,
+ "imagewidth":1536,
+ "margin":0,
+ "name":"cardx3",
+ "spacing":0,
+ "tilecount":2304,
+ "tiledversion":"1.10.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
