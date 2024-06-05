@@ -85,8 +85,23 @@ import {
     PercentageOutOfRangeError
 } from './vjsc/vanilla.mjs'
 
-const GUN_PARTS_PATH = 'assets/gun_parts/'
-const GUN_PARTS = 'GUN_PARTS'
+const assets = {
+    png: {
+        gunParts: 'assets/gun_parts/gun_parts.png',
+        button1: 'assets/holo_ui/button1/button1.png',
+        panel: 'assets/holo_ui/cardx1/panel.png',
+        cardx1: 'assets/holo_ui/cardx1/cardx1.png',
+        cardx2: 'assets/holo_ui/cardx2/cardx2.png',
+        cardx3: 'assets/holo_ui/cardx3/cardx3.png',
+        iconCyan: 'assets/holo_ui/Icons/iconsx32.png',
+        iconBlack: 'assets/holo_ui/Icons/iconsx32black.png',
+        iconGray: 'assets/holo_ui/Icons/iconsx32gray.png',
+        iconWhite: 'assets/holo_ui/Icons/iconsx32white.png',
+    },
+    tilemap: 'assets/gun_constructor.map.json'
+}
+
+
 
 let config = new Config(new View(800, 600), PHYSICS)
 config.scene = {
@@ -98,16 +113,19 @@ let game = new Phaser.Game(config)
 
 function preload ()
 {
-    this.load.image(GUN_PARTS, GUN_PARTS_PATH + 'gun_parts.png')
-    this.load.tilemapTiledJSON('tilemap', GUN_PARTS_PATH + 'gunmap.map.json')
+    for(const [key, value] of Object.entries(assets.png)){
+        console.log(`this.load.image('${key}', '${value}')`)
+        this.load.image(key, value)
+    }
+    this.load.tilemapTiledJSON('gun_constructor', assets.tilemap)
+    
 }
 
 function create ()
 {
-    const map = this.make.tilemap({key: 'tilemap'})
-    const tileset = map.addTilesetImage('gun_parts', GUN_PARTS)
-    // map.createStaticLayer('Background', tileset)
-    // map.createStaticLayer('Ground', tileset)
+    // const backgroundImage = map.createStaticLayer('Background', tileset)
+    const map = this.make.tilemap({key: 'map'})
+    const tileset = map.addTilesetImage('gun_parts', 'gunParts')
 }
 
 function update ()
